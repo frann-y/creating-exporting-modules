@@ -19,6 +19,5 @@ function getSorted () {
 
 module.exports = {
   numberPush: numberPush,
-  printList: printList,
   getSorted,
 }
