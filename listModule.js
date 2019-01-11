@@ -1,7 +1,7 @@
 var output = []; //made empty array
 
 function numberPush(number) { //pushing numbers to the array
-  output.push(number)
+  output.push(number);
 };
 
 function printList() { //prints the output of my list
